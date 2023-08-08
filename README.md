@@ -6,13 +6,13 @@ Computer Vision is one of the most fascinating and challenging tasks in the fiel
 the captured images/videos may contain identity-related information. The mass availability of monitoring devices has recorded an amount of facial image data, and many AI-based computer vision technologies are used to mine the personal information at a large scale. Thus, the privacy concerns are growing as the tremendous progress on computer vision technologies. However, the leakage of facial image data is occurring frequently in world. 
 Moreover, user’s facial images stored in the database, even if they are not exposed, are still vulnerable to third-party users or applications. Therefore, face anonymization has become one of the critical steps for many facial applications. Anonymizing facial images is a challenging task, which requires a robust model to modify the original face without destroying the existing data distribution.
 
-#Libraries and Requirements
+# Libraries and Requirements
 
 OpenCV Library
 Python3
 Media Pipe Google's open source framework
 Jupyter Notebook
 
-# Download Shape predictor 68 face landmarks file from kaggle before running the program from [here(https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat)]
+Download Shape predictor 68 face landmarks file from kaggle before running the program from [here](https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat)
 
 
